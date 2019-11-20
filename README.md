@@ -1,4 +1,4 @@
-# Forcasting-Time-Series
+# Forecasting-Time-Series
 
 
 Quick example of using python to forecast values when the data consists of a time series.
